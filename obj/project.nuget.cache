@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zrl4PRl15Vc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David.Fiuza\\Documents\\Trybe\\Projeto1\\ProjetoTrybe\\ProjetoTrybe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David.Fiuza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\David.Fiuza\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
